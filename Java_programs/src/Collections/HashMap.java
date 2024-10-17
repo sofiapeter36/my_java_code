@@ -11,7 +11,7 @@ public class HashMap {
 		// TODO Auto-generated method stub
 		Map<String,String> mp=new LinkedHashMap<String,String>();
 		mp.put("sofia", "James");
-		mp.put("sandhya", "Venkatesh");
+		mp.put("jenefer", "diwakar");
 		mp.put("Jainy", "Peter");
 		
 		Iterator <Map.Entry<String,String>> it= mp.entrySet().iterator();
