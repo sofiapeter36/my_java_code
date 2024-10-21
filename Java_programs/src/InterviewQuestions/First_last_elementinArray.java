@@ -14,7 +14,7 @@ public class First_last_elementinArray {
 		System.out.println("First element in Array " +ls.get(0));
 		ls.get(ls.size()-1);
 		System.out.println("Last element in Array " +ls.get(ls.size()-1));
-		System.out.println("Last element in Array " +ls.get(ls.size()/2));
+		System.out.println("Middle element in Array " +ls.get(ls.size()/2));
 		
 	}
 
